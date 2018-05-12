@@ -1,0 +1,28 @@
+_repo: Poetas-de-color_45180
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45180-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Calcagno, Francisco
+    birthdate: 1827
+    deathdate: 1903
+    gutenberg_agent_id: '43137'
+    url: http://www.gutenberg.org/2009/agents/43137
+description: ''
+gutenberg_issued: '2014-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45180'
+  lccn: '22009233'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Black -- Cuba'
+- !lcc 'PQ'
+- !lcsh 'Poets, Cuban'
+title: Poetas de color
+url: http://www.gutenberg.org/ebooks/45180
