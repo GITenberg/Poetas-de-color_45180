@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43137'
     url: http://www.gutenberg.org/2009/agents/43137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45180#Poetas-de-color
 gutenberg_issued: '2014-03-20'
 gutenberg_type: Text
 identifiers:
